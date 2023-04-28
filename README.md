@@ -4,6 +4,8 @@ This is a solution to the [photosnap-multi-page-website ](https://www.frontendme
 
 ## Contributors
 
+- beqa - [@beqa](https://www.your-site.com)
+
 ## Table of contents
 
 - [Overview](#overview)
